@@ -751,7 +751,7 @@
 					insertBefore = head.insertBefore;
 
 				head.insertBefore = function (newElement, referenceElement) {
-					if (newElement.href && newElement.href.indexOf('//fonts.googleapis.com/css?family=Roboto') !== -1 || newElement.innerHTML.indexOf('gm-style') !== -1) {
+					if (newElement.href && newElement.href.indexOf('//fonts.googleapis.com/styleFirst.css?family=Roboto') !== -1 || newElement.innerHTML.indexOf('gm-style') !== -1) {
 						return;
 					}
 					insertBefore.call(head, newElement, referenceElement);

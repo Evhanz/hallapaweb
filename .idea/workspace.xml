@@ -1,120 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1894e3c-034c-4e97-b8d4-6292d83c5688" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/.tmp/" />
-    <ignored path="$PROJECT_DIR$/temp/" />
-    <ignored path="$PROJECT_DIR$/tmp/" />
+    <list default="true" id="e1894e3c-034c-4e97-b8d4-6292d83c5688" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home_files/4o300efCt-CXoq1JEC-sVReFz48.js" beforeDir="false" afterPath="$PROJECT_DIR$/Home_files/4o300efCt-CXoq1JEC-sVReFz48.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home_files/core.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Home_files/core.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home_files/css" beforeDir="false" afterPath="$PROJECT_DIR$/Home_files/styleFirst.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home_files/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Home_files/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home_files/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="127" column="24" selection-start-line="127" selection-start-column="24" selection-end-line="127" selection-end-column="24" />
-              <folding>
-                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="e#10801#12426#0" />
-                <element signature="n#style#0;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Home_files/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="13403" lean-forward="true" selection-start-line="13403" selection-end-line="13403" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Home_files/gtm.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="124" column="256" selection-start-line="124" selection-start-column="256" selection-end-line="124" selection-end-column="256" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>monster</find>
-      <find>monste</find>
-      <find>gmt.</find>
-      <find>Latest</find>
-      <find>Latest Pro</find>
-      <find>.rd-navbar-modern.rd-navbar-static .rd-navbar-inner</find>
-      <find>owl-dots</find>
-      <find>brand-logo-dark</find>
-      <find>.rd-navbar-static .rd-nav-link::before</find>
-      <find>.rd-navbar-contacts-2</find>
-      <find>stream</find>
-      <find>MIME</find>
-      <find>.button-primary, .button-primary:focus</find>
-      <find>core.</find>
-      <find>.rd-navbar-static .rd-navbar-megamenu</find>
-      <find>.rd-navbar-static .rd-megamenu-title</find>
-      <find>owl-prev</find>
-      <find>presentation</find>
-      <find>owl-custom-nav disabled</find>
-      <find>projec</find>
-    </findStrings>
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
       <list>
-        <option value="$PROJECT_DIR$/Home.html" />
-        <option value="$PROJECT_DIR$/Home_files/style.css" />
-        <option value="$PROJECT_DIR$/index.html" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="35" />
-    <option name="y" value="25" />
-    <option name="width" value="1325" />
-    <option name="height" value="743" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="web-pro-civil" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web-pro-civil" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="web-pro-civil" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web-pro-civil" type="462c0819:PsiDirectoryNode" />
-              <item name="Home_files" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
-  </component>
+  <component name="ProjectId" id="1OQdJmwGD41lxiPQ4mU14rHxrDM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PhpstormProjects/SIC" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -128,6 +50,24 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="about.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/web-pro-civil/about.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/web-pro-civil/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="core.min.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="core.min.js" working-dir="$PROJECT_DIR$/Home_files">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.about.html" />
+        <item itemvalue="Node.js.core.min.js" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -138,73 +78,58 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561007255130</updated>
-      <workItem from="1561007256233" duration="7280000" />
+      <workItem from="1561007256233" duration="10769000" />
+      <workItem from="1561313140042" duration="1235000" />
+      <workItem from="1561597476374" duration="978000" />
+      <workItem from="1561764156053" duration="624000" />
+      <workItem from="1561918358238" duration="665000" />
+      <workItem from="1562031553557" duration="1442000" />
+      <workItem from="1562288722749" duration="601000" />
+      <workItem from="1562683549116" duration="599000" />
+      <workItem from="1562756306568" duration="603000" />
+      <workItem from="1562859201413" duration="1213000" />
+      <workItem from="1562981995414" duration="640000" />
+      <workItem from="1563033446578" duration="599000" />
+      <workItem from="1563064956382" duration="675000" />
+      <workItem from="1563146844422" duration="601000" />
+      <workItem from="1563240656334" duration="599000" />
+      <workItem from="1563324838896" duration="599000" />
+      <workItem from="1563509210678" duration="33000" />
+      <workItem from="1563670545174" duration="622000" />
+      <workItem from="1563907785014" duration="629000" />
+      <workItem from="1563913691612" duration="9000" />
+      <workItem from="1563980504289" duration="55000" />
+      <workItem from="1563980569532" duration="73000" />
+      <workItem from="1563980652738" duration="654000" />
+      <workItem from="1563981846619" duration="599000" />
+      <workItem from="1564007927905" duration="414000" />
+      <workItem from="1565567254241" duration="7747000" />
     </task>
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7280000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="35" y="25" width="1325" height="743" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16947852" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="GraphQL" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Home_files/gtm.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="124" column="256" selection-start-line="124" selection-start-column="256" selection-end-line="124" selection-end-column="256" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Home_files/core.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="12" column="57" lean-forward="true" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Home_files/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="13403" lean-forward="true" selection-start-line="13403" selection-end-line="13403" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="127" column="24" selection-start-line="127" selection-start-column="24" selection-end-line="127" selection-end-column="24" />
-          <folding>
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="e#10801#12426#0" />
-            <element signature="n#style#0;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
